@@ -3,3 +3,13 @@
 ################################################################################
 
 /Radix/BancoDeDados/obj/Debug
+/Radix/BancoDeDados/bin/Debug
+/Radix/.vs/Radix
+/Radix/Entity/obj
+/Radix/Entity/bin/Debug/netcoreapp2.0
+/Radix/Radix/obj
+/Radix/Radix/bin/Debug/netcoreapp2.0
+/Radix/Repository/obj
+/Radix/Repository/bin/Debug/netcoreapp2.0
+/Radix/Testes/obj
+/Radix/Testes/bin/Debug/netcoreapp2.0
